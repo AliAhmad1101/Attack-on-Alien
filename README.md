@@ -14,6 +14,16 @@ Survive as long as possible
 
 Score points for every alien destroyed
 
+## Gameplay Preview
+
+<p align="center">
+  <img src="Screenshots/Attack on Alien 10_26_2025 3_58_07 PM.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Screenshots/Attack on Alien 10_26_2025 4_00_39 PM.png" width="700">
+</p>
+
 ## Built With
 Python
 
